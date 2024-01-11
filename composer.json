@@ -28,11 +28,6 @@
             "Uitccommerce\\Assets\\": "src"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "Uitccommerce\\Assets\\Tests\\": "tests"
-        }
-    },
     "extra": {
         "laravel": {
             "providers": [
@@ -45,6 +40,5 @@
     },
     "config": {
         "sort-packages": true
-    },
-    "minimum-stability": "stable"
+    }
 }
